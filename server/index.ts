@@ -105,3 +105,11 @@ app.use((req, res, next) => {
     },
   );
 })();
+
+// serve frontend build
+app.use(express.static(path.join(__dirname, "../client/dist")));
+
+// handle React routing
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../client/dist/index.html"));
+});
