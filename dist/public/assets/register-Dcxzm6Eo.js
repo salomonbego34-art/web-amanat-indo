@@ -1,0 +1,1 @@
+import{j as t}from"./index-DdenBoRN.js";import r from"./auth-Cpj12_do.js";import"./input-CmYO3HAn.js";import"./textarea-DNfydIUq.js";function s(){return t.jsx(r,{initialMode:"register"})}export{s as default};

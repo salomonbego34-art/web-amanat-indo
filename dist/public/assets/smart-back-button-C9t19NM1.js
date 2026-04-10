@@ -1,0 +1,1 @@
+import{f as n,j as t,B as c,b as i}from"./index-B0jT7_4e.js";import{A as u}from"./arrow-left-Br-jRoTH.js";function f({fallback:s="/feed",label:a="Kembali",className:o,size:r="sm",variant:e="ghost"}){const{goBack:m}=n(s);return t.jsxs(c,{type:"button",size:r,variant:e,className:i("gap-2",o),onClick:()=>m(s),children:[t.jsx(u,{className:"h-4 w-4"}),a]})}export{f as S};

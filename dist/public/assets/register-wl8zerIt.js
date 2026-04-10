@@ -1,0 +1,1 @@
+import{j as t}from"./index-B0jT7_4e.js";import r from"./auth-CTeX4nam.js";import"./input-jIMqPDR6.js";import"./textarea-BNaKKmPG.js";function s(){return t.jsx(r,{initialMode:"register"})}export{s as default};

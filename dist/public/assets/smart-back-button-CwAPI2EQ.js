@@ -1,0 +1,1 @@
+import{j as t,B as n,c}from"./index-DdenBoRN.js";import{u,A as i}from"./arrow-left-CWQTYay7.js";function x({fallback:s="/feed",label:a="Kembali",className:o,size:r="sm",variant:e="ghost"}){const{goBack:m}=u(s);return t.jsxs(n,{type:"button",size:r,variant:e,className:c("gap-2",o),onClick:()=>m(s),children:[t.jsx(i,{className:"h-4 w-4"}),a]})}export{x as S};
